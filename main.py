@@ -1,3 +1,4 @@
+# Run the following in terminal:
 # cd Desktop/streamlit_demo
 # streamlit run main.py
 
