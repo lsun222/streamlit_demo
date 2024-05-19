@@ -18,7 +18,7 @@ plotly_demo = st.container()
 
 # Header section
 with header:
-    st.title("Welcome to my data science project")
+    st.title("Welcome to my streamlit project")
     st.text("This is a test application using Streamlit.")
 
 # Dataset section
